@@ -1,1 +1,1 @@
-# Lojik-Devreler-ve-Tasar-m
+# Digital Logic 
